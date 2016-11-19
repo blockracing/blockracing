@@ -10,9 +10,9 @@
 
   In the long run, with increasing size of the fund pool, proceeds and profit to game players and shareholders will be on the rise as well. 
 
-  We are working hard on development and will roll out the game soon. We have launched an ICO (Initial Coin Offering) for BlockRacing. For details o how you can participate in the ICO, please check out the Whitepaper on BlockRacing official website: 
+  We are working hard on development and will roll out the game soon. We have launched an ICO (Initial Coin Offering) for BlockRacing. For details on how you can participate in the ICO, please check out the Whitepaper on BlockRacing official website: 
 
 @BlockRacing
 www.blockracing.com
 
-Mailbox:blockchainracing@gmail.com
+Mailbox: blockchainracing@gmail.com
